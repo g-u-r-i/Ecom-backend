@@ -1,0 +1,1 @@
+module.exports.SUCCESSFULL_MESSAGE="Data Entered Successfully"
